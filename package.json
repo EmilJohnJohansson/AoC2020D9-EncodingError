@@ -1,0 +1,20 @@
+{
+  "name": "aoc2020d9-encodingerror",
+  "version": "1.0.0",
+  "description": "XMAS is an old cypher with an important weakness.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js example.txt 5",
+    "start": "node index.js input.txt 25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilJohnJohansson/AoC2020D9-EncodingError.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilJohnJohansson/AoC2020D9-EncodingError/issues"
+  },
+  "homepage": "https://github.com/EmilJohnJohansson/AoC2020D9-EncodingError#readme"
+}
